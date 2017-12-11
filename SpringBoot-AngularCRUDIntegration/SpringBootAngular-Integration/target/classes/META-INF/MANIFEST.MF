@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootAngularIntegration
+Implementation-Version: 0.0.1
+Built-By: veerasareddy
+Implementation-Vendor-Id: com.javasampleapproach.restful
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootAn
+ gularIntegration/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
